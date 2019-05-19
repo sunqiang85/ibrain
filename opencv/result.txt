@@ -1,0 +1,41 @@
+# result1: minW-default, minH-default, vertical_flip-False
+total accuray: 0.76
+detected accuray: 0.92
+total: 80
+predicted: 66
+correct count: 61
+
+# result1: minW-0.1, minH-0.1, vertical_flip-False
+total accuray: 0.76
+detected accuray: 0.92
+total: 80
+predicted: 66
+correct count: 61
+
+# result1: minW-0.5, minH-0.5, vertical_flip-False
+total accuray: 0.75
+detected accuray: 0.92
+total: 80
+predicted: 65
+correct count: 60
+
+# result4: minW-0.6
+total accuray: 0.71
+detected accuray: 0.90
+total: 80
+predicted: 63
+correct count: 57
+
+# minW-0.8
+total accuray: 0.59
+detected accuray: 0.85
+total: 80
+predicted: 55
+correct count: 47
+
+# minW-0.9
+total accuray: 0.59
+detected accuray: 0.85
+total: 80
+predicted: 55
+correct count: 47
